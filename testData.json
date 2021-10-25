@@ -1,0 +1,17 @@
+{
+    "operation": "premium",
+    "policy": {
+        "locator": 100000000,
+        "guaranteedRate": "2.5",
+        "guaranteedTerm": "3",
+        "guaranteedRenewalRate": "1",
+        "freeWithdrawalAmountLeft": "10000",
+        "freeWithdrawalPercent": "10",
+        "premium": "100000",
+        "startingAccountValue": "100000",
+        "endingAccountValue": "100000",
+        "surrenderRate": "9",
+        "lastTransactionDate": "2020-12-12",
+        "withdrawalAmount": "2000"
+    }
+}
